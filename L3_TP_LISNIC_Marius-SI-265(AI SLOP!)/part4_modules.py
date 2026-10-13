@@ -1,5 +1,5 @@
 # Laborator: funcții, metode și importuri pe web
-# Student: <numele vostru>
+# Student: <Lisnic Marius>
 
 import hashlib
 import json
