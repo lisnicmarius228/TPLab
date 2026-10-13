@@ -1,5 +1,5 @@
 # Laborator: funcții, metode și importuri pe web
-# Student: <numele vostru>
+# Student: <Lisnic Marius>
 """webtools: funcții reutilizabile pentru analiza unui site web."""
 
 import csv
